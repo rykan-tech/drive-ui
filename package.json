@@ -7,13 +7,17 @@
     "@types/node": "12.7.1",
     "@types/react": "16.8.25",
     "@types/react-dom": "16.8.5",
+    "@uifabric/fluent-theme": "^7.1.0",
+    "aphrodite": "^2.3.1",
+    "office-ui-fabric-react": "^7.22.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
+    "rykan-web-framework": "^0.1.6",
     "typescript": "3.5.3"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "cross-env PORT=4770 BROWSER=\"NONE\" react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

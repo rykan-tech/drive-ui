@@ -1,0 +1,36 @@
+{
+	"folders": [
+		"Documents",
+		"E-mail Attachments",
+		"Music",
+		"Movies",
+		"Photos",
+		"Scores"
+	],
+	"files": [
+		{
+			"name": "2015-07-09_16.57.12",
+			"ext": "png"
+		},
+		{
+			"name": "Album Art",
+			"ext": "docx"
+		},
+		{
+			"name": "APERTURE LABORATORIES",
+			"ext": "docx"
+		},
+		{
+			"name": "Aperture Science Innovators Products",
+			"ext": "docx"
+		},
+		{
+			"name": "AstroFront Announcer",
+			"ext": "docx"
+		},
+		{
+			"name": "badaboom_bb",
+			"ext": "zip"
+		}
+	]
+}
